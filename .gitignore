@@ -1,0 +1,14 @@
+.DS_Store
+
+# dotnet core
+bin/
+obj/
+project.lock.json
+NuGetScratch/
+
+wwwroot/**
+!wwwroot/scratch.html
+!wwwroot/favicon.ico
+
+# other
+*.js.map
